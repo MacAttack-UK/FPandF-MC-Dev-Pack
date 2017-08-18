@@ -1,2 +1,2 @@
 # FPandF-MC-Dev-Pack
-Fun Police and Friends - Minecraft 
+Fun Police and Friends - Minecraft Pack Development
